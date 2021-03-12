@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nstavr04
+- 👀 I’m interested in Computer Science and programming. Currently im a 2nd year undergraduate CS student.
+- 🌱 Currently, im trying to learn a bit of web development using TOP course as well as Python.
