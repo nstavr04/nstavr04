@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Nick.
-- 👀 I'm very intrigued by original technological innovations and also I'm a 2nd year undergraduate Computer Science student.
-- 🌱 Currently, im trying to learn a bit of web development using Javascript and Ruby as well as Python on the side but im open to experimenting with anything i haven't tried yet.
+- 👀 Currently, I'm a 3rd year undergraduate Computer Science student.
+- 🌱 Im trying to learn a bit of web development using Javascript and Ruby as well as Python on the side but im open to experimenting with anything i haven't tried yet.
 - 👾 I have good understanding and knowledge of C, C++,Java and MIPS Assembly. 
