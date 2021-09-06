@@ -1,4 +1,2 @@
 - 👋 Hi, I’m Nick.
-- 👀 Currently, I'm a 3rd year undergraduate Computer Science student.
-- 🌱 Im trying to learn a bit of web development using Javascript, CSS and HTML as well as Python on the side but im open to experimenting with anything i haven't tried yet.
-- 👾 I have good understanding and knowledge of C, C++,Java and MIPS Assembly. 
+- 👀 Currently, a 3rd year undergraduate Computer Science student at UCY.
