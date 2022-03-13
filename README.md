@@ -1,4 +1,4 @@
-###👋 Hey, I’m Nick.
+### 👋 Hey, I’m Nick.
 
 - 👀 Invested and passionate in software development.
 - 🌱 Currently learning and interested in Android Programming (Kotlin), AI (Python) and basics in Data Science and Machine Learning.
