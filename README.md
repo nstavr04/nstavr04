@@ -1,7 +1,7 @@
 ### 👋 Hey, I’m Nick.
 
-- 👀 Invested and passionate in software development.
-- 🌱 Currently learning and interested in Android Programming (Kotlin), AI (Python) and basics in Data Science and Machine Learning.
+- 👀 Invested and passionate in computer science.
+- 🌱 Currently learning and interested in Android Programming and Machine Learning.
 - 🔭 Some of my free-time tech interests: Ethical hacking and Blockchain.
 - 📫 Contact me:
   - [LinkedIn](https://www.linkedin.com/in/nikolas-stavrou-043336181/)
