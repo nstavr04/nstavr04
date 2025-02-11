@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nstavr04&label=Profile%20views&color=0e75b6&style=flat" alt="nstavr04" /> </p>
 
-- 🌱 Currently learning **Generative-AI, Weather Forecasting, AgriTech**
+- 🌱 Currently learning **Generative-AI, Weather Forecasting, AgriTech, MLOps**
 
 - 👯 Looking to collaborate on **any interesting AI related project, preferably in R&D.**
 
